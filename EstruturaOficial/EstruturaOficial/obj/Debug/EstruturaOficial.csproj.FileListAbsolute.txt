@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\bin\Debug\EstruturaOficial.exe.config
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\bin\Debug\EstruturaOficial.exe
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\bin\Debug\EstruturaOficial.pdb
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\obj\Debug\EstruturaOficial.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\obj\Debug\EstruturaOficial.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\obj\Debug\EstruturaOficial.exe
+C:\Users\Pc\source\repos\EstruturaOficial\EstruturaOficial\obj\Debug\EstruturaOficial.pdb
